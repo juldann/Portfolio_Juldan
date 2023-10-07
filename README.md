@@ -101,9 +101,9 @@ QA Bootcamp at Binar Academy is an intensive program that trains software qualit
 
 ### Test Case and Test Scenario 
 
-  * Create test case and test scenario from Ecommerce websites
-  * Create test case and test scenario from Ecommerce Mobile Apps
-Check the document [here](https://docs.google.com/spreadsheets/d/14iZBngcemFHfUNi95WW8YdpGCt0vretG/edit?usp=sharing&ouid=101607305262295454288&rtpof=true&sd=true)
+  - Create test case and test scenario from Ecommerce websites
+  - Create test case and test scenario from Ecommerce Mobile Apps
+  * Check the document [here](https://docs.google.com/spreadsheets/d/14iZBngcemFHfUNi95WW8YdpGCt0vretG/edit?usp=sharing&ouid=101607305262295454288&rtpof=true&sd=true)
 
 ### Bug reports
 
@@ -115,11 +115,11 @@ Check the document [here](https://docs.google.com/spreadsheets/d/14iZBngcemFHfUN
 ### API Testing 
 
 API testing on websites and Mobile Apps using POSTMAN based on requirements and API documentation. 
-Check the project [here](https://drive.google.com/drive/folders/1QLhzrKMb7BQHGKp_g4VrEpZ_Xgf81-JP?usp=sharing)
-Check the html report [here](https://drive.google.com/drive/folders/1QM6jnwbeV-MN-8WmDOXLTZFP7Ym4nkx8?usp=sharing)
+  * Check the project [here](https://drive.google.com/drive/folders/1QLhzrKMb7BQHGKp_g4VrEpZ_Xgf81-JP?usp=sharing)
+  * Check the html report [here](https://drive.google.com/drive/folders/1QM6jnwbeV-MN-8WmDOXLTZFP7Ym4nkx8?usp=sharing)
 
 ### Performance Testing 
 
 Performance testing on websites and Mobile Apps using JMETER to know the performance of the website and Mobile Apps. 
-Check the project [here](https://drive.google.com/drive/folders/1QXKh0x34zI3eMnnjzTmQCDvtAVSrwwJK?usp=sharing)
-Check the html report [here](https://drive.google.com/drive/folders/1QxOH6CQL1gZSNL9EXozSSIvlceoHXvkk?usp=sharing)
+  * Check the project [here](https://drive.google.com/drive/folders/1QXKh0x34zI3eMnnjzTmQCDvtAVSrwwJK?usp=sharing)
+  * Check the html report [here](https://drive.google.com/drive/folders/1QxOH6CQL1gZSNL9EXozSSIvlceoHXvkk?usp=sharing)
