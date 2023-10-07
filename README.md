@@ -6,9 +6,11 @@
 - [Examples of my work](#examples-of-my-work)
 
 ## About me
-Hi my name is Muhammad Juldan Naufal I am a recent graduate with a Bachelor's Degree in Informatics and I am interested in pursuing a career in the field of Quality Assurance. I possess strong communication skills, the ability to analyze and solve problems, and am comfortable working in a team environment. I am eager to learning and improve my knowledge about testing especially manual and automation testing.
-
-I am a graduate from Telkom University with Bachelor's Degree in Informatics and eager to pursuing a career of Quality Assurance.  I also possess strong communication skills, ability to analyze and solve problems and can work in a team environment. I have experience as a freelance Web Developer at GMP to develop a website for company profile using (sebutin tools/bahasa yg digunakan) but because I have great interest in Quality Assurance, I join Bootcamp at Binar to enhance my skills regarding QA tools where I learn automated test using Katalon, Performance Test using Jmeter and documented a Test Case. I believe my experience and my eagerness to learn and improve can positively improve your company.
+I am a graduate from Telkom University with Bachelor's Degree in Informatics and eager to pursuing a career of Quality Assurance.
+I also possess strong communication skills, ability to analyze and solve problems and can work in a team environment.
+I have experience as a freelance Web Developer at GMP to develop a website for company profile using HTML, CSS, JavaScript and Bootstrap.
+But because I have great interest in Quality Assurance, I join Bootcamp at Binar to enhance my skills regarding QA tools where I learn automated test using Katalon, Performance Test using Jmeter and documented a Test Case.
+I believe my experience and my eagerness to learn and improve can positively improve your company.
 
 ## Skills
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
@@ -95,3 +97,29 @@ __Quality Assurance Engineer Bootcamp__
 QA Bootcamp at Binar Academy is an intensive program that trains software quality assurance. The duration of this bootcamp is approximately 4 months, it includes functional testing, automated testing, and best QA practices. With hands-on practice and real projects.
 [Link to the certificate(soon)]
 
+## Examples of my work
+
+### Test Case and Test Scenario 
+
+  * Create test case and test scenario from Ecommerce websites
+  * Create test case and test scenario from Ecommerce Mobile Apps
+Check the document [here](https://docs.google.com/spreadsheets/d/14iZBngcemFHfUNi95WW8YdpGCt0vretG/edit?usp=sharing&ouid=101607305262295454288&rtpof=true&sd=true)
+
+### Bug reports
+
+- Several bugs found on Ecommerce websites and reported:
+  * Bug report document. Check [bug report document](https://docs.google.com/document/d/14Gc3TuPRi7O9L5JOyu79qMCdqcBxe9Et/edit?usp=sharing&ouid=101607305262295454288&rtpof=true&sd=true).
+- Several bugs found on Mobile Apps and reported:
+  * Bug report document. Check [bug report document](https://docs.google.com/document/d/14I65niPn-iWtuHNxxNsTH_p7s46Awuyq/edit?usp=sharing&ouid=101607305262295454288&rtpof=true&sd=true).
+
+### API Testing 
+
+API testing on websites and Mobile Apps using POSTMAN based on requirements and API documentation. 
+Check the project [here](https://drive.google.com/drive/folders/1QLhzrKMb7BQHGKp_g4VrEpZ_Xgf81-JP?usp=sharing)
+Check the html report [here](https://drive.google.com/drive/folders/1QM6jnwbeV-MN-8WmDOXLTZFP7Ym4nkx8?usp=sharing)
+
+### Performance Testing 
+
+Performance testing on websites and Mobile Apps using JMETER to know the performance of the website and Mobile Apps. 
+Check the project [here](https://drive.google.com/drive/folders/1QXKh0x34zI3eMnnjzTmQCDvtAVSrwwJK?usp=sharing)
+Check the html report [here](https://drive.google.com/drive/folders/1QxOH6CQL1gZSNL9EXozSSIvlceoHXvkk?usp=sharing)
