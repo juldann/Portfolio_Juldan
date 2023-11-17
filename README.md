@@ -76,8 +76,7 @@ __JMETER__
 
 __KATALON STUDIO__
   * Know how to create test case
-  * Know how to configure jmeter
-  * Know different request methods and how to implementation
+  * Know how to configure katalon studio
   * Able to create report based on test run and analyze them
     
 ## Courses
