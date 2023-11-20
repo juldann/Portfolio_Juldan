@@ -17,7 +17,12 @@ You can find examples of the described skills in the [Examples of my work](#exam
 
 __Manual testing__
   * Can perform manual functional and usability testing of web applications and android application
-  * Gained hands-on experience by testing ecommerce website and application
+  * Gained hands-on experience by manual testing ecommerce website and application
+
+__Automation testing__
+  * Can perform automation testing of web applications and android application
+  * Can perform automation testing using TDD and BDD gherkin cucumber in katalon studio
+  * Gained hands-on experience by automation testing ecommerce website and application
 
 __Test analysis & design__
   * Familiar writing use cases, 
@@ -75,8 +80,8 @@ __JMETER__
   * Able to create report based on test run and analyze them
 
 __KATALON STUDIO__
-  * Know how to create test case
-  * Know how to configure katalon studio
+  * Know how to create test case for TDD and BDD (gherkin cucumber)
+  * Know how to configure katalon studio for android automation
   * Able to create report based on test run and analyze them
     
 ## Courses
@@ -98,27 +103,46 @@ QA Bootcamp at Binar Academy is an intensive program that trains software qualit
 
 ## Examples of my work
 
-### Test Case and Test Scenario 
+### Manual Testing
 
+#### Test Case and Test Scenario 
   - Create test case and test scenario from Ecommerce websites
   - Create test case and test scenario from Ecommerce Mobile Apps
   * Check the document [here](https://docs.google.com/spreadsheets/d/14iZBngcemFHfUNi95WW8YdpGCt0vretG/edit?usp=sharing&ouid=101607305262295454288&rtpof=true&sd=true)
 
-### Bug reports
+#### Bug reports
 
 - Several bugs found on Ecommerce websites and reported:
   * Bug report document. Check [bug report document](https://docs.google.com/document/d/14Gc3TuPRi7O9L5JOyu79qMCdqcBxe9Et/edit?usp=sharing&ouid=101607305262295454288&rtpof=true&sd=true).
 - Several bugs found on Mobile Apps and reported:
   * Bug report document. Check [bug report document](https://docs.google.com/document/d/14I65niPn-iWtuHNxxNsTH_p7s46Awuyq/edit?usp=sharing&ouid=101607305262295454288&rtpof=true&sd=true).
 
-### API Testing 
+#### API Testing 
 
 API testing on websites and Mobile Apps using POSTMAN based on requirements and API documentation. 
   * Check the project [here](https://drive.google.com/drive/folders/1QLhzrKMb7BQHGKp_g4VrEpZ_Xgf81-JP?usp=sharing)
   * Check the html report [here](https://drive.google.com/drive/folders/1QM6jnwbeV-MN-8WmDOXLTZFP7Ym4nkx8?usp=sharing)
 
-### Performance Testing 
+#### Performance Testing 
 
 Performance testing on websites and Mobile Apps using JMETER to know the performance of the website and Mobile Apps. 
   * Check the project [here](https://drive.google.com/drive/folders/1QXKh0x34zI3eMnnjzTmQCDvtAVSrwwJK?usp=sharing)
   * Check the html report [here](https://drive.google.com/drive/folders/1QxOH6CQL1gZSNL9EXozSSIvlceoHXvkk?usp=sharing)
+
+### Automation Testing
+
+#### Test Case and Test Scenario 
+- Create test case and test scenario from Ecommerce websites
+  * Check the document [here](https://docs.google.com/spreadsheets/d/1NWWOKE3WoBF2gf7eDl0_D8h9yIXp30Sv5mSvWK09T0o/edit?usp=sharing)
+- Create test case and test scenario from Ecommerce Mobile Apps
+  * Check the document [here](https://docs.google.com/spreadsheets/d/1ai_mKdnxrvMRq-Yl6KwoZkZaRKvj7Gx71BCkQp3gI6w/edit?usp=sharing)
+
+#### Repository Automation Testing
+
+This project repository is for Katalon Studio, i'm using BDD - gherkin cucumber for the automation testing. And as a team i made only 2 automation feature which is Login, and register for both Mobile and Website.
+  * Check the repository [here](https://gitlab.com/autobot4661838/autobot_challenge)
+
+#### Automation Report
+I made this report using plugin from gherkin cucumber with Html format.
+  * Check the document [here](https://drive.google.com/drive/folders/1YLaUH7od7qbck1rI5ZR7IAKWG6MSrQLQ?usp=sharing)
+
