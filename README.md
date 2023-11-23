@@ -88,25 +88,25 @@ __KATALON STUDIO__
 __Fundamental Quality Engineer__  
 *online courses by Alterra Academy*  
 This course prepares to become a reliable Quality Engineer by learning the meaning of software, testing web/mobile/REST API-based software to test case management tools.  
-[Link to the certificate](https://drive.google.com/file/d/13kh8Qwl0ipSPHx_1voSG5lprPnh_3m0I/view?usp=sharing)  
+* [Link to the certificate](https://drive.google.com/file/d/13kh8Qwl0ipSPHx_1voSG5lprPnh_3m0I/view?usp=sharing)  
 
 __Intro to Software Engineering__  
 *online courses by REVOU*  
 This 2 weeks course learning fundamental concepts and principles of software engineering, using python as programming language.
-[Link to the certificate](https://drive.google.com/file/d/12kCQZtZEdL4Hz7f1HLE7iFBoadctPMht/view?usp=sharing)
+* [Link to the certificate](https://drive.google.com/file/d/12kCQZtZEdL4Hz7f1HLE7iFBoadctPMht/view?usp=sharing)
 
 __Quality Assurance Engineer Bootcamp__  
 *online courses by Binar Academy*
 QA Bootcamp at Binar Academy is an intensive program that trains software quality assurance. The duration of this bootcamp is approximately 4 months, it includes manual testing, automation testing, and best QA practices. With hands-on practice and real projects.
-[Link to the certificate, Gold Challenge, Platinum Challenge, and Student Report ](https://drive.google.com/drive/folders/1mGHpEX-sWz7GUYX_KXY1f2GyACma7lT-?usp=sharing)
+* [Link to the certificate, Gold Challenge, Platinum Challenge, and Student Report](https://drive.google.com/drive/folders/1mGHpEX-sWz7GUYX_KXY1f2GyACma7lT-?usp=sharing)
 
 ## Examples of my work
 
 ### Manual Testing
 
 #### Test Case and Test Scenario 
-  - Create test case and test scenario from Ecommerce websites
-  - Create test case and test scenario from Ecommerce Mobile Apps
+ - Create test case and test scenario from Ecommerce websites
+ - Create test case and test scenario from Ecommerce Mobile Apps
   * Check the document [here](https://docs.google.com/spreadsheets/d/14iZBngcemFHfUNi95WW8YdpGCt0vretG/edit?usp=sharing&ouid=101607305262295454288&rtpof=true&sd=true)
 
 #### Bug reports
