@@ -6,10 +6,9 @@
 - [Examples of my work](#examples-of-my-work)
 
 ## About me
-I am a graduate from Telkom University with Bachelor's Degree in Informatics and eager to pursuing a career of Quality Assurance.
-I also possess strong communication skills, ability to analyze and solve problems and can work in a team environment.
-I have experience as a freelance Web Developer at GMP to develop a website for company profile using HTML, CSS, JavaScript and Bootstrap.
-But because I have great interest in Quality Assurance, I join Bootcamp at Binar to enhance my skills regarding QA tools where I learn automated test using Katalon, Performance Test using Jmeter and documented a Test Case.
+I recently graduated from Telkom University with a Bachelor's Degree in Informatics and am passionately seeking a career in Quality Assurance. 
+With strong communication skills, adept problem-solving abilities, and a collaborative mindset, I am eager to contribute positively to your company.
+To further hone my interest in Quality Assurance, I participated in a Bootcamp at Binar, enhancing my skills in automated testing using Katalon, conducting Performance Tests with JMeter, and proficiently documenting Test Cases.
 I believe my experience and my eagerness to learn and improve can positively improve your company.
 
 ## Skills
@@ -88,7 +87,7 @@ __KATALON STUDIO__
 
 __Fundamental Quality Engineer__  
 *online courses by Alterra Academy*  
-This course prepares to become a reliable Quality Engineer by learning the meaning of software, things needed to build software, testing web/mobile/REST API-based software to test case management tools.  
+This course prepares to become a reliable Quality Engineer by learning the meaning of software, testing web/mobile/REST API-based software to test case management tools.  
 [Link to the certificate](https://drive.google.com/file/d/13kh8Qwl0ipSPHx_1voSG5lprPnh_3m0I/view?usp=sharing)  
 
 __Intro to Software Engineering__  
@@ -98,8 +97,8 @@ This 2 weeks course learning fundamental concepts and principles of software eng
 
 __Quality Assurance Engineer Bootcamp__  
 *online courses by Binar Academy*
-QA Bootcamp at Binar Academy is an intensive program that trains software quality assurance. The duration of this bootcamp is approximately 4 months, it includes functional testing, automated testing, and best QA practices. With hands-on practice and real projects.
-[Link to the certificate(soon)]
+QA Bootcamp at Binar Academy is an intensive program that trains software quality assurance. The duration of this bootcamp is approximately 4 months, it includes manual testing, automation testing, and best QA practices. With hands-on practice and real projects.
+[Link to the certificate, Gold Challenge, Platinum Challenge, and Student Report ](https://drive.google.com/drive/folders/1mGHpEX-sWz7GUYX_KXY1f2GyACma7lT-?usp=sharing)
 
 ## Examples of my work
 
